@@ -1,0 +1,25 @@
+img{
+    width: 500px;
+}
+h1{
+    color: #830c0c;
+    padding-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 3em sans-serif;
+}
+body{
+    background-color: azure;
+    ;
+}
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+
+}
+a:hover{
+color: hsl(162, 58%, 29%);
+}
+h2,h3{
+    color: blueviolet;
+}
